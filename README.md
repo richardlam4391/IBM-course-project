@@ -1,9 +1,3 @@
-
-## Key Insights
-
-## Files
-'Final_Assignment_Richard_Lam.ipynb' - Jupyter Notebook via Visual Studio Code
-
 # Historical Stock/Revenue Analysis 
 
 This project analyzes the historical revenue and stock trends in both Tesla and GameStop with Python.
