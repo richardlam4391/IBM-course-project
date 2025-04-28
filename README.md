@@ -14,6 +14,6 @@ GameStop Revenue 2006-2020 | GME from IBM (https://cf-courses-data.s3.us.cloud-o
 
 ## Key Insights
 - According to the line graph "Historical Share Price", Tesla and GameStop had both highest sales on January 2021, but according to the line graph "Historical Revenue", Tesla and GameStop had different higher revenues in the past.  
-- 
+
 - ## Files
 'Final_Assignment_Richard_Lam.ipynb' - Jupyter Notebook via Visual Studio Code
